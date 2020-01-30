@@ -1,0 +1,21 @@
+{
+    "name": "vim-material--dark-",
+    "displayName": "Vim Material (Dark)",
+    "description": "A vscode port of Github user hzchirs's vim-material color theme. https://github.com/hzchirs/vim-material",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.41.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Vim Material Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Vim Material Dark-color-theme.json"
+            }
+        ]
+    }
+}
