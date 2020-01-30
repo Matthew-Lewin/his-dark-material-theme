@@ -11,10 +11,12 @@
     "list.activeSelectionBackground": "#ECEFF1",
     "list.activeSelectionForeground": "#171E21",
     "editorLineNumber.foreground": "#C3E88D",
-    "editorCursor.foreground": "#007ACC",
-    "editor.selectionBackground": "#61616150",
+    "editorCursor.foreground": "#536d79ca",
+    "editor.selectionBackground": "#536d79ca",
     "editor.selectionHighlightBackground": "#ECEFF150",
     "editor.wordHighlightBackground": "#ff9cac30",
+    "tab.activeBorder": "#007ACC",
+    "tab.activeBackground": "#171E21",
     "titleBar.activeForeground": "#ECEFF1",
     "titleBar.activeBackground": "#171E21",
     "titleBar.inactiveBackground": "#171E21",
@@ -34,7 +36,9 @@
     "terminal.ansiMagenta": "#673ab7",
     "terminal.ansiRed": "#f44336",
     "terminal.ansiWhite": "#eceff1",
-    "terminal.ansiYellow": "#ffeb3b"
+    "terminal.ansiYellow": "#ffeb3b",
+    "statusBar.background": "#1a1a1a",
+    "statusBar.foreground": "#cecece"
   },
   "tokenColors": [
     {
