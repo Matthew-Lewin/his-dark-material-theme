@@ -172,7 +172,8 @@
         "meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
       ],
       "settings": {
-        "foreground": "#81c784"
+        "foreground": "#e57373",
+        "fontStyle": "italic"
       }
     },
     {
