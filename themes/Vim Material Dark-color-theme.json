@@ -48,7 +48,6 @@
       "name": "Comment",
       "scope": ["comment", "punctuation.definition.comment"],
       "settings": {
-        "fontStyle": "italic",
         "foreground": "#485c64"
       }
     },
@@ -56,8 +55,7 @@
       "name": "Variables",
       "scope": ["variable", "string constant.other.placeholder"],
       "settings": {
-        "foreground": "#4dd0e1",
-        "fontStyle": "italic"
+        "foreground": "#4dd0e1"
       }
     },
     {
@@ -78,7 +76,7 @@
       "name": "Keyword",
       "scope": ["keyword"],
       "settings": {
-        "foreground": "#007ACC"
+        "foreground": "#ECEFF1"
       }
     },
     {
@@ -116,7 +114,7 @@
         "markup.deleted.git_gutter"
       ],
       "settings": {
-        "foreground": "#f44336"
+        "foreground": "#e57373"
       }
     },
     {
@@ -230,7 +228,7 @@
       "scope": ["variable.language"],
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#f44336"
+        "foreground": "#e57373"
       }
     },
     {
