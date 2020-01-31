@@ -56,7 +56,8 @@
       "name": "Variables",
       "scope": ["variable", "string constant.other.placeholder"],
       "settings": {
-        "foreground": "#eceff1"
+        "foreground": "#4dd0e1",
+        "fontStyle": "italic"
       }
     },
     {
@@ -74,10 +75,17 @@
       }
     },
     {
-      "name": "Keyword, Storage",
-      "scope": ["keyword", "storage.type", "storage.modifier"],
+      "name": "Keyword",
+      "scope": ["keyword"],
       "settings": {
-        "foreground": "#673ab7"
+        "foreground": "#007ACC"
+      }
+    },
+    {
+      "name": "Storage",
+      "scope": ["storage.type", "storage.modifier"],
+      "settings": {
+        "foreground": "#ECEFF1"
       }
     },
     {
@@ -128,14 +136,14 @@
       "name": "Block Level Variables",
       "scope": ["meta.block variable.other"],
       "settings": {
-        "foreground": "#f44336"
+        "foreground": "#007ACC"
       }
     },
     {
       "name": "Other Variable, String Link",
       "scope": ["support.other.variable", "string.other.link"],
       "settings": {
-        "foreground": "#f44336"
+        "foreground": "#E57373"
       }
     },
     {
@@ -182,7 +190,7 @@
         "support.type.sys-types"
       ],
       "settings": {
-        "foreground": "#4caf50"
+        "foreground": "#81c784"
       }
     },
     {
