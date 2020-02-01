@@ -1,5 +1,7 @@
 # README
 
+![A dark theme for visual studio code based off of material colors](vscode_theme.png)
+
 This theme for vscode is a custom theme influenced by the [Material theme for vim](https://github.com/hzchirs/vim-material) by github user hzchirs.
 
 This theme has:
