@@ -21,7 +21,7 @@
     "titleBar.activeForeground": "#ECEFF1",
     "titleBar.activeBackground": "#171E21",
     "titleBar.inactiveBackground": "#171E21",
-    "titleBar.inactiveForeground": "#171e21b9",
+    "titleBar.inactiveForeground": "#808283",
     "terminal.ansiBlack": "#1a1a1a",
     "terminal.ansiBlue": "#2196f3",
     "terminal.ansiBrightBlack": "#485c64",
