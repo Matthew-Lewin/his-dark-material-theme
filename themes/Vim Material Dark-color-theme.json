@@ -13,7 +13,7 @@
     "list.activeSelectionForeground": "#ECEFF1",
     "editorLineNumber.foreground": "#81c784",
     "editorCursor.foreground": "#536d79ca",
-    "editor.selectionBackground": "#536d79ca",
+    "editor.selectionBackground": "#90a4ae23",
     "editor.selectionHighlightBackground": "#ECEFF150",
     "editor.wordHighlightBackground": "#ff9cac30",
     "tab.activeBorder": "#007ACC",
