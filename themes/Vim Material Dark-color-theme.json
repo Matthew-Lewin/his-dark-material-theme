@@ -41,7 +41,12 @@
     "statusBar.background": "#1a1a1a",
     "statusBar.foreground": "#cecece",
     "activityBar.background": "#171e21",
-    "activityBar.dropBackground": "#f0717880"
+    "activityBar.dropBackground": "#f0717880",
+    "button.background": "#2196f3",
+    "button.foreground": "#171e21",
+    "dropdown.background": "#171E21",
+    "dropdown.border": "#263238",
+    "dropdown.foreground": "#cfd8dc"
   },
   "tokenColors": [
     {
